@@ -40,7 +40,7 @@ namespace ado
                     Console.WriteLine(e.Message);
                 }
             }
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }
