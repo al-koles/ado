@@ -12,6 +12,7 @@ namespace ado
     {
         static void Main(string[] args)
         {
+            //Let's commit
             //string c = Properties.Settings.Default.
             // Say hello to github
             string connStr = "Data Source=DESKTOP-ST1VBIU;Initial Catalog=test;Integrated Security=True";
